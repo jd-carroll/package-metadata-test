@@ -1,0 +1,12 @@
+{
+  "name": "package-metadata-test",
+  "version": "0.1.0",
+  "description": "A module for testing package-metadata",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Josep Carroll",
+  "license": "MIT",
+  "custom_metadata": {
+    "found": true
+  }
+}
