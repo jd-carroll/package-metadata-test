@@ -1,6 +1,6 @@
 {
   "name": "package-metadata-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for testing package-metadata",
   "main": "index.js",
   "keywords": [],
